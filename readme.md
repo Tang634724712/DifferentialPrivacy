@@ -1,3 +1,15 @@
+**This is a research based course of Differential Privacy with the Prof. Vorapong from the The University of Tokyo With 5 main topics**
+
+Topic 1: Anonymity, Privacy-Preciseness trade-offs
+
+Topic 2: Differential Privacy, Laplacian Mechanism
+
+Topic 3: Exponential Mechanism
+
+Topic 4: SmallDB algorithm
+
+Topic 5: Private PAC learning
+
 ## Linking attack
 A linkage attack is an attempt to re-identify individuals in an anonymized dataset by combining that data with background information.
 Data like age, location, gender, and so on are generally used.

@@ -1,5 +1,6 @@
 ## Task 1
-**Suppose the size of the Excel data is public information, gender and heighet are what we can change, and the weight is private sensitive information**
+**Suppose the size of the Excel data is public information, gender and heighet are what we can change, and the weight is private sensitive information.**
+
 Linear regression is a way to model a relationship between two sets of variables. 
 
 The equation has the form Y= a + bX, where Y is the dependent variable (that’s the variable that goes on the Y axis), 
